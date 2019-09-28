@@ -1,0 +1,11 @@
+/**index.wxss**/
+.size{
+  width: 700rpx;
+  height: 800rpx;
+}
+.btn{
+  border-radius: 2%;
+  margin: 5%;
+  background-color: #32CD32;
+  color: #ffffff;
+}
